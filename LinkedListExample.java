@@ -1,6 +1,7 @@
 import java.util.*; 
   
-public class Geeks { 
+public class LinkedListExample
+{ 
   
     public static void main(String args[]) 
     { 

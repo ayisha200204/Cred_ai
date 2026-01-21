@@ -83,3 +83,62 @@ Demonstrates the use of a `LinkedList` to store and manage string elements. Show
 **Output:**  
 Welcome to Java Programming
 Welcome to Java Programming
+
+---
+
+## 4. Java Stack Program
+
+**Description:**  
+Demonstrates the use of the Stack class in Java to store integer values and perform stack operations following the Last In, First Out (LIFO) principle.
+
+**Program Overview:**  
+- Creates a Stack of Integer values 
+- Pushes multiple elements onto the stack 
+- Uses a while loop to check if the stack is empty
+- Removes and prints elements using the pop() method
+
+**Key Concepts Used:**  
+- Stack class from java.util  
+- Stack operations: push(), pop(), isEmpty()
+- LIFO data structure
+- Looping through stack elements
+
+**Purpose:**  
+- Understand how Stack works in Java
+- Learn basic stack operations
+- Observe LIFO behavior during element removal
+
+**Output:**  
+4
+3
+2
+1
+
+---
+
+## 5. Java Queue Program (PriorityQueue)
+
+**Description:**  
+Demonstrates the use of a Queue in Java using the PriorityQueue class. Shows how elements are added, displayed, and removed from the queue.
+
+**Program Overview:**  
+- Creates a Queue of String values using PriorityQueue
+- Adds elements to the queue
+- Displays the queue contents
+- Removes a specific element using remove()
+- Displays the queue after removal
+
+**Key Concepts Used:**  
+- Queue interface from java.util
+- PriorityQueue implementation
+- Queue operations: add(), remove()
+- Automatic ordering in PriorityQueue
+
+**Purpose:**  
+- Learn how Queue works in Java
+- Understand PriorityQueue behavior
+- Practice basic queue operations
+
+**Output:**  
+[20, 50, 30]
+After Remove: [30, 50]
